@@ -1,0 +1,13 @@
+Longueur: 2
+Largeur: 2
+Hauteur: 2
+Coefficient de conductivité thermique des parois (kParois): 0.30
+Epaisseur des parois (en mm): 80
+Coefficient de conductivité thermique du plafond (kPlafond): 0.30
+Epaisseur du plafond (en mm): 80
+Coefficient de conductivité thermique du sol (kSol): 2.4
+Epaisseur du sol (en mm): 100
+Température extérieure: 25
+Température intérieure: 2
+Cycle de fonctionnement (en heures): 24
+Temps de marche (en heures): 16
